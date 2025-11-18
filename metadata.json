@@ -1,0 +1,5 @@
+{
+  "name": "Boom Art Sales Tracker",
+  "description": "A secure sales tracking application for Boom Art 3D printing business, featuring daily logs, visualization, and AI-powered insights.",
+  "requestFramePermissions": []
+}
